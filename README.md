@@ -1,11 +1,12 @@
 ### Olá, eu sou a Isabella :blush:
 
+<ul style="list-style: none;">
 
-  :woman_technologist: trabalho como analista de desenvolvimento em um ERP de agronegócios;
- :woman_student: tenho formação em ADS e Gestão de Projetos;
- :books: tenho interesse no desenvolvimento front-end e mobile;
- :sparkles: e sou eterna aprendiz..
-
+ <li> :woman_technologist: trabalho como analista de desenvolvimento em um ERP de agronegócios;</li>
+ <li> :woman_student: tenho formação em ADS e Gestão de Projetos;</li>
+ <li> :books: tenho interesse no desenvolvimento front-end e mobile;</li>
+ <li> :sparkles: e sou eterna aprendiz..</li>
+<ul>
 
 <div align="center">
   <a href="https://github.com/zabella-12">
