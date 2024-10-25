@@ -2,9 +2,8 @@
 
 <ul style="list-style: none;">
 
- <li> :woman_technologist: trabalho como analista de desenvolvimento em um ERP de agronegócios;</li>
+ <li> :woman_technologist: estou buscando trabalho na área de tecnologia, como desenvolvedora ou na área de dados</li>
  <li> :woman_student: tenho formação em ADS e Gestão de Projetos;</li>
- <li> :books: tenho interesse no desenvolvimento front-end e mobile;</li>
  <li> :sparkles: e sou eterna aprendiz..</li>
 <ul>
 
